@@ -1,6 +1,6 @@
 ### Olá, eu sou o Juan! 👋
 - 🌱 Atualmente estou estudando: HTML/CSS/JavaScript e TypeScript
-- 👯 Estou a procura de vagas em: Desenvolvimento Front-End e Analitsa de QA
+- 👯 Estou a procura de vagas em: Desenvolvimento Front-End
 - 📫 Contate-me no e-mail: juanrodriguesdto@gmail.com 
 - 😄 Pronomes: Ele/Dele
 
