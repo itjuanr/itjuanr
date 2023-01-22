@@ -1,5 +1,5 @@
 ### Olá, eu sou o Juan! 👋
-- 🌱 Atualmente estou estudando: JavaScript/React/NodeJs/SQLServer.
+- 🌱 Atualmente estou estudando: JavaScript/React/NodeJs.
 - 📫 Contate-me no e-mail: juanrodriguesdto@gmail.com 
 - 😄 Pronomes: Ele/Dele
 
