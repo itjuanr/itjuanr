@@ -1,7 +1,9 @@
-### Olá, eu sou o Juan! 👋
-- 🌱 Atualmente estou estudando: JavaScript/React/NodeJs.
+### Olá, sou um Analista de Testes com experiência em garantia de qualidade de software. Sou apaixonado por testes de software e estou sempre procurando maneiras de aprimorar minha habilidade de identificar problemas e melhorar a experiência do usuário final.
+
+Durante minha carreira, trabalhei em projetos de grande escala (GPVM - Vale, NetSales - Claro). Trabalhei com diversas ferramentas de teste, incluindo JUnit, Selenium, Oracle SQL, SoapUI, Jira, Azure DevOps, e tenho experiência em testes manuais e automatizados.
+
+- 🌱 Atualmente estou estudando: JavaScript, NodeJs, TypeScript, Selenium, Cypress e Jasmine.
 - 📫 Contate-me no e-mail: juanrodriguesdto@gmail.com 
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/evokeee">
