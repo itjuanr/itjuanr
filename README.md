@@ -1,9 +1,11 @@
 ### Olá, sou um Analista de Testes com experiência em garantia de qualidade de software. Sou apaixonado por testes de software e estou sempre procurando maneiras de aprimorar minha habilidade de identificar problemas e melhorar a experiência do usuário final.
 
-Durante minha carreira, trabalhei em projetos de grande escala (GPVM - Vale, NetSales - Claro). Trabalhei com diversas ferramentas de teste, incluindo JUnit, Selenium, Oracle SQL, SoapUI, Jira, Azure DevOps, e tenho experiência em testes manuais e automatizados.
+ෆ Durante minha carreira, trabalhei em projetos de grande escala (GPVM - Vale, NetSales - Claro). Trabalhei com diversas ferramentas de teste, incluindo JUnit, Selenium, Oracle SQL, SoapUI, Jira, Azure DevOps, e tenho experiência em testes manuais e automatizados. ෆ
 
-- 🌱 Atualmente estou estudando: JavaScript, NodeJs, TypeScript, Selenium, Cypress e Jasmine.
-- 📫 Contate-me no e-mail: juanrodriguesdto@gmail.com 
+- ૪ Atualmente estou estudando: JavaScript, NodeJs, TypeScript, Selenium, Cypress e Jasmine. ૪
+- ૪ Contate-me no e-mail: juanrodriguesdto@gmail.com. ૪
+- ૪ Faço parte da equipe ágil de Evolutivas da Vale. Tenho sido responsável por garantir que as demandas desenvolvidas estejam em conformidade com as especificações, requisitos e expectativas dos usuários finais.
+Trabalho em estreita colaboração com os desenvolvedores e outros membros da equipe de Evolutivas para garantir que os requisitos do projeto sejam atendidos e que o software atenda aos padrões de qualidade. ૪
 
 <div align="center">
   <a href="https://github.com/evokeee">
