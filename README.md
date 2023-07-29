@@ -42,7 +42,6 @@ I am always eager to learn and grow professionally, and I am excited to bring my
 <h3> Contact </h3>
 
   [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-7E4798?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:juanrodriguesdto@gmail.com)
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-r/)
   [![Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-E4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evokwx/)
 
 </div>
