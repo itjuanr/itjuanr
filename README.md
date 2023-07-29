@@ -1,32 +1,48 @@
-### Olá, sou um Analista de Testes com experiência em garantia de qualidade de software. Sou apaixonado por testes de software e estou sempre procurando maneiras de aprimorar minha habilidade de identificar problemas e melhorar a experiência do usuário final.
+### Hello, I am a Software Test Analyst with experience in Software Quality Assurance. I am passionate about software testing and constantly seek ways to enhance my ability to identify issues and improve the end-user experience.
 
-ෆ Durante minha carreira, trabalhei em projetos de grande escala (GPVM - Vale, NetSales - Claro). Trabalhei com diversas ferramentas de teste, incluindo JUnit, Selenium, Oracle SQL, SoapUI, Jira, Azure DevOps, e tenho experiência em testes manuais e automatizados. ෆ
+Throughout my career, I have worked on large-scale projects. I have hands-on experience with various testing tools and technologies, including but not limited to:
 
-- ૪ Atualmente estou estudando: JavaScript, NodeJs, TypeScript, Selenium, Cypress e Jasmine. ૪
-- ૪ Contate-me no e-mail: juanrodriguesdto@gmail.com. ૪
-- ૪ Faço parte da equipe ágil de Evolutivas da Vale. Tenho sido responsável por garantir que as demandas desenvolvidas estejam em conformidade com as especificações, requisitos e expectativas dos usuários finais.
-Trabalho em estreita colaboração com os desenvolvedores e outros membros da equipe de Evolutivas para garantir que os requisitos do projeto sejam atendidos e que o software atenda aos padrões de qualidade. ૪
+Test Automation: JUnit, Selenium WebDriver, TestNG, Cucumber
+API Testing: Postman, SoapUI
+Database Testing: Oracle SQL, MySQL, PostgreSQL
+Bug Tracking and Project Management: Jira, Azure DevOps
+Performance Testing: JMeter, Gatling
+Mobile Testing: Appium, Espresso, XCUITest
+Test Management: Zephyr, TestRail
+
+I am well-versed in both manual and automated testing, and I continually seek to explore new tools and technologies to enhance the quality and efficiency of the testing process.
+
+I am also a dedicated problem solver and continuously seek opportunities to optimize the testing process and enhance software quality. My excellent communication skills and collaborative nature make me an effective team player, working together to achieve project objectives.
+
+I am always eager to learn and grow professionally, and I am excited to bring my skills and experience to my team.
+<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/evokeee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evokeee&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evokeee&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/833353957304565821/927397157059833886/JUAN_RODRIGUES.gif">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://skillicons.dev/icons?i=java"> 
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://skillicons.dev/icons?i=git">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://skillicons.dev/icons?i=postman">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://skillicons.dev/icons?i=postgres">
 </div>
     
   ##
  
-<div> 
-  <a href="https://www.instagram.com/evokwx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:juanrodriguesdto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/juan-r/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center"> 
+<h3> Contact </h3>
+
+  [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-7E4798?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:juanrodriguesdto@gmail.com)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juan-r/)
+  [![Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-E4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evokwx/)
+
 </div>
