@@ -10,12 +10,6 @@ Database Testing: Oracle SQL, MySQL, PostgreSQL
 <br>
 Bug Tracking and Project Management: Jira, Azure DevOps
 <br>
-Performance Testing: JMeter, Gatling
-<br>
-Mobile Testing: Appium, Espresso, XCUITest
-<br>
-Test Management: Zephyr, TestRail
-<br>
 
 I am well-versed in both manual and automated testing, and I continually seek to explore new tools and technologies to enhance the quality and efficiency of the testing process.
 
