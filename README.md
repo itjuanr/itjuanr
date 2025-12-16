@@ -10,7 +10,7 @@
     <i>"Translating business needs into robust technical specifications."</i>
   </p>
   
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank">
+  <a href="[https://www.linkedin.com/in/seu-linkedin-aqui](https://www.linkedin.com/in/juan-r/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:juanrodriguesdto@gmail.com">
