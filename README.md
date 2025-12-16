@@ -49,7 +49,7 @@ I am an IT professional with a solid track record in **Quality Assurance (QA)** 
 **Quality Assurance & Testing**
 <br>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=selenium,postman,jira,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman,azure,idea&theme=dark" />
 </div>
 
 <br>
