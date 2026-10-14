@@ -70,7 +70,7 @@ building  Ocean's Store, in production and evolving
 **Test**
 
 <img src="https://skillicons.dev/icons?i=cypress,selenium,postman&theme=dark" alt="Cypress, Selenium, Postman" />
-&nbsp;
+
 ![SoapUI](https://img.shields.io/badge/SoapUI-000000?style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=2B4DFF)
 ![SQL](https://img.shields.io/badge/SQL_validation-000000?style=for-the-badge&logo=oracle&logoColor=2B4DFF)
