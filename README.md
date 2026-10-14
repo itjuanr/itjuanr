@@ -40,8 +40,6 @@ building  Ocean's Store, in production and evolving
 2026  Deloitte   Mid-level Systems Analyst
 2024  Atos       Systems Development Analyst   requirements + quality
 2022  Atos       Test Analyst                  functional, regression, API
-2022  UFN        Software Testing Academy
-2021  Estácio    Systems Analysis and Development
 ```
 
 ---
